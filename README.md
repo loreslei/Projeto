@@ -2,7 +2,7 @@
 
 ###### Palavras-Chave: Basquete • Projeto Integrado I • Sistemas e Mídias Digitais
 
-***
+
 
 ## Sumário:
 - [Sobre](#sobre)

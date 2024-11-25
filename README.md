@@ -1,4 +1,4 @@
-# Synes - {Título}
+# Synes - Bem-vindo ao {Título}
 
 ###### Palavras-Chave: Basquete • Projeto Integrado I • Sistemas e Mídias Digitais
 
